@@ -1,7 +1,7 @@
 import { useState } from "react"
-import Header from "./components/header"
-import UserInput from "./components/UserInput"
-import Result from "./components/Result";
+import Header from "./components/Header.jsx"
+import UserInput from "./components/UserInput.jsx"
+import Result from "./components/Result.jsx";
 
 
 function App() {
